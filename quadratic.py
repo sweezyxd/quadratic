@@ -9,8 +9,8 @@ def solve(a, b, c):
             return "S = {" + str(round(-b / (2 * a), 2)) + " }"
 
         if delta > 0:
-            return "S = { " + str(round(((-3) - (-sqrt(delta))) / (2 * a), 2)) + " ; " + str(
-                round(((-3) - (sqrt(delta))) / (2 * a), 2)) + " }"
+            return "S = { " + str(round(((-b) - (-sqrt(delta))) / (2 * a), 2)) + " ; " + str(
+                round(((-b) - (sqrt(delta))) / (2 * a), 2)) + " }"
 
         if delta < 0:
             return "S = { " + str(round((-b) / (2 * a), 2)) + str(round((-(sqrt(-delta))) / (2 * a), 2)) + "i ; " + str(
