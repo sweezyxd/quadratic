@@ -11,13 +11,15 @@ First, you'll have to import the script to your project directory, then just imp
 
 # Examples:
 
-```import quadratic
+```
+import quadratic
 
 print(quadratic.solve(5,2,1))
 ```
 Result: S = { -0.2-0.4i ; -0.2+0.4i }
 
-```import quadratic
+```
+import quadratic
 
 print(quadratic.solve(5,2,-1))
 ```
