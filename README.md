@@ -7,7 +7,8 @@ Just a simple and easy to use python script providing you the ability to solve q
 
 # Usage:
 
-First, you'll have to import the script to your project directory, then just import the script to your python code like this: ```import quadratic```. then finally, use the ```solve``` function to get the result wanted.
+First, you'll have to import the script to your project directory, then just import the script to your python code like this: ```import quadratic```. 
+Then finally, use the ```solve``` function to get the result wanted.
 
 # Examples:
 
