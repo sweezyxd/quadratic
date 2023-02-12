@@ -25,7 +25,7 @@ import quadratic
 print(quadratic.solve(5,2,-1))
 ```
 
-result: S = { 0.19 ; -0.79 }
+Result: S = { 0.19 ; -0.79 }
 
 # Note:
 If the values provided to the function are not numerical data, or the values are 0s, the function will return errors:
