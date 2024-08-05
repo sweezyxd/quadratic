@@ -2,7 +2,7 @@ import time
 from math import sqrt
 
 
-def solve(a, b, c):
+def solve(a, b, c): # args should not be 0
     delta = (b * b) - (4 * a * c)
     try:
         if delta == 0:
